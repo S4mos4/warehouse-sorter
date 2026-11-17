@@ -1,0 +1,3 @@
+OK at 350 ms: lane B package exited after 200 ms
+OK at 400 ms: lane A package exited after 300 ms
+JAM at 1500 ms: lane A package waiting for 1000 ms
